@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Pascal Spijkstra, software engineering student at 42 network, based at Codam, the campus in Amsterdam, the Netherlands.
 - 🌱 I’m currently learning more about pathfinding algorithms, physics, embedded programming and procedural generation.
 - 👀 My favorite projects so far are:
-  - Webserver from scratch (https://github.com/Ryno95/webserv) 
-  - Raytracing from scratch (https://github.com/PascalSCoder/miniRT) keep in mind this was my first 'real' project.
+  - Webserv, a Nginx like webserver written in C++ (https://github.com/Ryno95/webserv) 
+  - MiniRT, raytracing in C (https://github.com/PascalSCoder/miniRT) keep in mind this was my first 'real' project.
+  - Also noteworthy is Minishell, a small replica of Bash, written in C (https://github.com/PascalSCoder/minishell)
