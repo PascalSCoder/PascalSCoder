@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Pascal Spijkstra (a.k.a. @PascalSCoder)
-- 👀 I’m most interested in working at graphics, physics, mobile apps and games.
-- 🌱 I’m currently learning more about C++, pathfinding algorithms, physics and embedded programming.
-- 💞️ I’m looking to collaborate on mobile game development, please feel free to reach out!
-- 📫 Feel free to reach out if you want to team up: pascalspijkstra@gmail.com
+- 👋 Hi, I’m Pascal Spijkstra, software engineering student at 42 network, based at Codam, the campus in Amsterdam, the Netherlands.
+- 🌱 I’m currently learning more about pathfinding algorithms, physics, embedded programming and procedural generation.
+- 👀 My favorite projects so far are:
+  - Webserver from scratch (https://github.com/Ryno95/webserv) 
+  - Raytracing from scratch (https://github.com/PascalSCoder/miniRT) keep in mind this was my first 'real' project.
